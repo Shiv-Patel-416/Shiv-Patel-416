@@ -22,6 +22,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shiv-Patel-416&icon=0&color=0)](https://visitcount.itsvg.in)
 
-सरकारें आएंगी-जाएंगी, पार्टियां बनेंगी-बिगड़ेंगी, मगर ये Github रहना चाहिए
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
